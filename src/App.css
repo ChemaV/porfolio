@@ -1,0 +1,79 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('./img/portada.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center; /* Para alinear los enlaces en el centro */
+  align-items: flex-start; /* Para alinear los enlaces en la parte superior */
+  margin-top: 0px; /* Espacio superior entre el navegador superior y el contenido */
+}
+
+
+.nav-link:hover {
+  color: #A8A847; /* Cambia el color del texto al pasar el ratón por encima */
+}
+
+.Estudio {
+  display: flex;
+  color: #25282A; 
+  font-family: "Rubik", sans-serif;
+  font-weight: 300;
+  font-size: 50px;
+  margin-top: 235px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: center;
+  }
+
+
+.top-nav {
+  display: flex;
+  flex-direction: column; /* Para alinear los enlaces verticalmente */
+  justify-content: flex-start; /* Para alinear los enlaces al lado izquierdo */
+  align-items: flex-start; /* Para alinear los enlaces en la parte superior */
+  margin-top: 0px; /* Espacio superior entre el navegador superior y el contenido */
+}
+
+.nav-link {
+  margin: 0 260px; /* Espacio entre los enlaces */
+  text-decoration: none; /* Elimina el subrayado predeterminado */
+  color: #25282a;
+  font-family: "Rubik", sans-serif; /* Color del texto */
+  font-size: 30px; /* Tamaño de fuente */
+  font-weight: 200; /* Peso de fuente */
+}
+
+@media (max-width: 768px) {
+  .nav-link {
+    display: flex;
+    flex-wrap: wrap; /* Para que los elementos se envuelvan cuando no haya suficiente espacio */
+    justify-content: center; /* Para centrar los elementos */
+    align-items: center; /* Para alinear los elementos verticalmente */
+    margin: 0 30px; /* Elimina el margen lateral */
+    font-size: 25px; /* Tamaño de fuente reducido para dispositivos móviles */
+  }
+}
+
