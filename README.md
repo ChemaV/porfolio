@@ -2,6 +2,8 @@ Porfolio Estudio Hernesto Conhache
 
 Este porfolio estaba siendo realizado con React + Vite pero tuve muchos fallos el código cuando estaba realizando la página principal App.jsx 
 
+Sólo logré la portada, un título y un navbar. 
+
 En su defecto como necesito tener un porfolio visible lo he realizado con un CMS, en este caso con Hostinger.
 
 
