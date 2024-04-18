@@ -1,8 +1,9 @@
-# React + Vite
+Porfolio Estudio Hernesto Conhache
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este porfolio estaba siendo realizado con React + Vite pero tuve muchos fallos el código cuando estaba realizando la página principal App.jsx 
 
-Currently, two official plugins are available:
+En su defecto como necesito tener un porfolio visible lo he realizado con un CMS, en este caso con Hostinger.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Mi web-porfolio es esta www.hernestoconhache.com
+
